@@ -23,7 +23,8 @@
 - [Instagram](https://www.instagram.com/alacrysoft/)
 
 ## 😄 Pronombres
-- Él/Ello
+- MisterLinux
+- Alacrysoft
 
 ## ⚡ Dato Curioso
 - Me apasiona experimentar con diferentes distribuciones de Linux y mejorar la eficiencia de los sistemas operativos.
