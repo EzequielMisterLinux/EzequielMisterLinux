@@ -1,46 +1,66 @@
-# 👋 ¡Hola! Soy Ezequiel Campos (@kyxent.immortal.dev)
+# 💫 Hi! I'm Ezequiel Campos (@kyxent.immortal.dev)
 
-## 🚀 Sobre mí
-Soy desarrollador full stack con experiencia en **Node.js, TypeScript, Express, React y MongoDB**. Me apasiona la arquitectura de software, la administración de sistemas Linux y la seguridad informática. Además, disfruto explorando nuevas tecnologías y optimizando sistemas.
-
-Actualmente, estoy trabajando en una aplicación web que permite a cualquier empresa crear su propia tienda virtual con un enlace único, simplificando la venta en línea sin complicaciones técnicas.
-
-## 🔥 Tecnologías y Herramientas
-### Backend
-- **Node.js, Express, NestJS**
-- **MongoDB, PostgreSQL** (usualmente en la nube como MongoDB Atlas o Railway)
-- **Laravel 11** para proyectos con PHP
+## 💻 Tech Stack
 
 ### Frontend
-- **React + Vite**
-- **TailwindCSS + DaisyUI**
-- **TypeScript y JavaScript**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Infraestructura y DevOps
-- **Docker & Docker Compose** (para bases de datos y entornos de desarrollo)
-- **Kubernetes** (aprendiendo sobre automatización y gestión de despliegues)
-- **Cloudinary** (para almacenamiento de imágenes)
-- **Railway** (para hosting backend y bases de datos)
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Sistemas y Linux
-- **Arch Linux + Hyprland** (configurando mi propia distro basada en Arch con kernel Zen)
-- **Administración y optimización de sistemas Linux**
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## 🌱 Actualmente aprendiendo
-- **Frontend moderno** (perfeccionando React y UI/UX con Tailwind y DaisyUI)
-- **Deep Learning con Python**
-- **Automatización de despliegues con Kubernetes**
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 💡 Proyectos y colaboración
-- Desarrollo de aplicaciones web innovadoras
-- Proyectos de código abierto
-- Aplicaciones de mensajería y redes sociales
+## 🚀 About Me
+I'm a **Full Stack Developer** specializing in cross-platform solutions with 4+ years of experience. My core expertise includes:
 
-## 📫 Contáctame
-- 🌍 [Portafolio](https://portafolio-ezequiel-campos.netlify.app/)
-- 📘 [Facebook](https://web.facebook.com/EzequielZCc/)
-- 📷 [Instagram](https://www.instagram.com/alacrysoft/)
+- Building scalable web apps with **Node.js, TypeScript, and React**
+- Developing mobile applications using **Flutter & Kotlin**
+- Designing robust backend architectures with **NestJS and Laravel**
+- Implementing DevOps solutions with **Docker & Kubernetes**
 
----
-✨ Siempre estoy abierto a nuevas oportunidades y colaboraciones. Si tienes una idea interesante, hablemos. ¡Construyamos algo increíble juntos! 🚀
+**Current Focus:** Creating an all-in-one platform for businesses to launch virtual stores effortlessly.
 
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=EzequielMisterLinux&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielMisterLinux&layout=compact&theme=dark&hide_border=true)](https://github.com/EzequielMisterLinux)
+
+## 🛠️ Tech Toolkit
+
+### Infrastructure
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Linux Expertise
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+## 🌱 Learning Goals 2024
+- Advanced Kubernetes orchestration
+- AI/ML integration in web applications
+- Microservices optimization techniques
+- Blockchain development fundamentals
+
+## 📬 Let's Connect
+[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://portafolio-ezequiel-campos.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+## ☕ Support My Work
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kyxent)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kyxent)
