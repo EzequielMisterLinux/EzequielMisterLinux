@@ -58,8 +58,8 @@ I'm a **Full Stack Developer** specializing in cross-platform solutions with 4+ 
 
 ## 📬 Let's Connect
 [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://portafolio-ezequiel-campos.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyxent-immortal/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humbertoezequiel.z.c@gmail.com)
 
 ## ☕ Support My Work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kyxent)
