@@ -35,9 +35,9 @@ I'm a **Full Stack Developer** specializing in cross-platform solutions with 4+ 
 **Current Focus:** Creating an all-in-one platform for businesses to launch virtual stores effortlessly.
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=EzequielMisterLinux&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kyxent-Immortal-Dev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielMisterLinux&layout=compact&theme=dark&hide_border=true)](https://github.com/EzequielMisterLinux)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyxent-Immortal-Dev&layout=compact&theme=dark&hide_border=true)](https://github.com/kyxent-Immortal-Dev)
 
 ## 🛠️ Tech Toolkit
 
